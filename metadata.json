@@ -1,0 +1,6 @@
+{
+  "name": "Humanized Prompt Generator",
+  "description": "An interactive tool to generate high-quality, anti-slop, and deeply humanized prompts for AI models, complete with audience settings and style selection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
